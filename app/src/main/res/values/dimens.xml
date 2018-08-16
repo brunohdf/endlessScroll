@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_text">36dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="default_padding">8dp</dimen>
+    <dimen name="no_value">0dp</dimen>
+</resources>
